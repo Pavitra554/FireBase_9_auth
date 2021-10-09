@@ -46,6 +46,9 @@ Authentication Demo with Firebase 9 & React.Js
 
 # How it look's 🤩
   <img src="./gif/1.gif">
+  
+  ### After Login
+  
   <img src="./gif/2.gif">
   
 # Some important information about React
