@@ -22,7 +22,7 @@
     <img alt="" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   </a>
   <a aria-label="NPM version" href="https://firebase.google.com/">
-     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+     <img src="https://img.shields.io/badge/firebase v9-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
   </a>
   <a aria-label="NPM version" href="https://www.figma.com">
      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
